@@ -38,8 +38,11 @@
 ## 🛠 Skills
 
 **Programming:** Python, R
+
 **Data Science:** scikit-learn, pandas, visualization
+
 **Bioinformatics:** RNA structurome, genome assembly, Snakemake
+
 **Tools:** Git, Linux
 
 ---
