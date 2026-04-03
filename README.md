@@ -1,8 +1,11 @@
 # Hi, I'm Baptiste 👋
 
 🎓 Graduate from Centrale Nantes with a specialization in digital technologies applied to life sciences
+
 🧬 I am interested in bioinformatics, data science, machine learning and image analysis for biology
+
 💼 I have gained experience through two internships (5 and 6 months) both in a research lab (bioinformatics in a genomics team) and in a start-up, where I worked as an image analysis engineer on cardiac organoids.
+
 🚀 Currently looking for opportunities in data, development or technical product roles in healthcare or biotech
 
 ---
